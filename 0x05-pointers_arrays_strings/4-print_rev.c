@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print rev - imprime en reverse
+ * print_rev - imprime en reverse
+ * @s: input
  */
 void print_rev(char *s)
 {
