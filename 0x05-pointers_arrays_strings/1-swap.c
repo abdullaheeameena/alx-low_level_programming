@@ -2,7 +2,9 @@
 #include <stdio.h>
 
 /**
- * swaps int - swaps the values of two integers
+ *  swap_int - swaps the values of two integers
+ *  @a: input
+ *  @b: input
  *
  */
 
