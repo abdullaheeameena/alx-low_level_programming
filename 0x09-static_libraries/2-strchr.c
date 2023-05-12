@@ -6,5 +6,5 @@
 
 char *_strchr(char *s, char c)
 {
-	return (s, c);
+	return strchr(s, c);
 }

@@ -4,7 +4,7 @@
 #include <ctype.h>
 #include <string.h>
 
-char *strncat(char *dest, char *src int n)
+char *_strncat(char *dest, char *src, int n)
 {
 	return strncat(dest, src, n);
 }
